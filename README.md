@@ -1,4 +1,4 @@
-# nft
+# NFT
 Crypto Collectible NFT with ERC-721 Tokens
 ## Dependencies<br/>
 Install these prerequisites to continue
